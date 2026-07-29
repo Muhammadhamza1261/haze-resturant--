@@ -1,0 +1,16 @@
+.delivery{
+    width:60%;
+    margin:50px auto;
+    text-align:center;
+      /* background-color: #001529; */
+  color: white;
+}
+
+
+@media (max-width:768px){
+
+    .delivery{
+        width:90%;
+    }
+
+}

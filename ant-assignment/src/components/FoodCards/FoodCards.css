@@ -1,0 +1,29 @@
+.food-container{
+    display:flex;
+    justify-content:center;
+    margin-top:40px;
+}
+
+.food-card{
+    width:300px;
+    text-align:center;
+}
+
+.food-card img{
+    width:100%;
+    border-radius:10px;
+}
+
+
+
+.food-card{
+    width:300px;
+}
+
+@media (max-width:768px){
+
+    .food-card{
+        width:90%;
+    }
+
+}

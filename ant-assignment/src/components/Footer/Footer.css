@@ -1,0 +1,23 @@
+.footer {
+  background-color: #001529;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  margin-top: 50px;
+}
+
+/* .icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-size: 30px;
+  margin-top: 15px;
+} */
+
+.icons{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    font-size:30px;
+    flex-wrap:wrap;
+}
